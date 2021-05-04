@@ -1,16 +1,18 @@
-### Hi there 👋
+  **Greetings** 👋 👋 
 
-<!--
-**FardinShariar-dotcom/FardinShariar-dotcom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on a Deep Learning Project.
+- 🌱 I’m currently learning AWS and Deep Learning
+- 👯 I’m looking to collaborate on any AWS project.
+- 🤔 I’m looking for help with Data Science
+- 💬 Ask me about productivity.
+- 📫 How to reach me through this mail : ivaneo.fardin@gmail.com
+- 😄 Pronouns: It maybe! I don't know.
+- ⚡ Fun fact : I'm a master procrastinator and I wrote "Ask me about productivity" !!! 
+     I was just kidding lol,
+    - 
+    - 
+    -
+     on being a **Master Procrastinator** 😄😄😄  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
