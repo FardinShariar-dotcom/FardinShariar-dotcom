@@ -9,7 +9,7 @@
 - 📫 How to reach me through this mail : ivaneo.fardin@gmail.com
 - 😄 Pronouns: It maybe! I don't know.
 - ⚡ Fun fact : I'm a master procrastinator and I wrote "Ask me about productivity" !!! 
-     I was just kidding lol,
+     I was just kidding lol, <br>
      on being a **Master Procrastinator** 😄😄😄  
 
 
